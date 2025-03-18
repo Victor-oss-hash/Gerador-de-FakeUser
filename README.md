@@ -88,7 +88,6 @@ A API utilizada foi a https://randomuser.me/ que fornece informações de usuár
 - [  ] Responsividade da tela
 - [  ] Aumentar o filtro da quantidade de usuários
 - [  ] colocar mais opções de paises
-- [  ] 
 
 ## Contatos
 
